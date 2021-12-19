@@ -3,7 +3,7 @@ from pprint import pprint
 
 #this program will show you the current information about weather in specific city in json
 
-API_Key = 'a63ebfb740dbe99bbec8933295061f1e'
+API_Key = ''
 
 city = input("Enter a city: ")
 
